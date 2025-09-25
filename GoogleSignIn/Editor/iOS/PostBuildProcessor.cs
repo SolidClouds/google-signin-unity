@@ -1,4 +1,4 @@
-#if UNITY_EDITOR
+#if UNITY_EDITOR && UNITY_IOS
 using System;
 using System.IO;
 using System.Linq;
